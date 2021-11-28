@@ -1,5 +1,5 @@
 # Machine-Learning-Class---GAN
-Tuần 1 + 2: Đọc hiểu bài báo, viết được báo cáo về ý tưởng của mô hình GAN, hiểu được công thức tính hàm loss và cơ sở lý thuyết của bài báo. Chạy được code mẫu.
+Tuần 1 + 2: Đọc hiểu bài báo, viết được báo cáo về ý tưởng của mô hình GAN, hiểu được công thức tính hàm loss và cơ sở lý thuyết của bài báo. Chạy được code mẫu.//
 Tuần 3 + 4: 
 - Triển khai lại mô hình GAN trên tập dữ liệu Fashion MNIST.
 - Tìm hiểu thêm về các biến thể của GAN như DCGAN, CGAN, ...
